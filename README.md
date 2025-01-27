@@ -7,7 +7,7 @@ This project uses machine learning to predict flight booking prices based on fea
 
 Branches-
 main: Contains the fully documented version of the project, including explanations, visualizations, and insights.
-non_documented: Contains the raw, non-documented version of the project for reference.
+
 
 Key Features:
 Predicts flight prices using machine learning models such as Linear Regression, Decision Tree, and Random Forest.
